@@ -1,0 +1,2 @@
+# mpdbsync.bcg.com
+cut
